@@ -11,3 +11,45 @@ body{background: lightsalmon}
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
+#add{
+    float: right;
+    font-size:30px;
+    color:red;
+    text-align:center;
+    width: 30%;
+    padding: 10px;
+    border-style: dotted;
+    border-color:purple;
+    border-width: 10px;
+    margin: 3em;
+    background-color:lightblue;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+h2  {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+p {font-family: 'Play', sans-serif;}
+
+#chris {font-family: 'Play', sans-serif;}
+#holland {font-family: 'Play', sans-serif;}
+
+
+
+#contact:hover{
+    font-size: 150%;
+}
+#projects:hover{
+    font-size: 150%;
+}
+#about:hover{
+    font-size: 150%;
+}
+
+#resume:hover{
+    font-size: 150%;
+}
