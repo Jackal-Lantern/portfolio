@@ -53,3 +53,9 @@ p {font-family: 'Play', sans-serif;}
 #resume:hover{
     font-size: 150%;
 }
+  
+@media all and(crientation:landscape){property: 500px;}
+
+
+
+
