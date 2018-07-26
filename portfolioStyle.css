@@ -56,6 +56,18 @@ p {font-family: 'Play', sans-serif;}
   
 @media all and(crientation:landscape){property: 500px;}
 
+#tango{
+    font-size:30px;
+    color:rgb(238, 225, 225);
+    text-align:center;
+    width: 30%;
+    padding: 10px;
+    border-style: line;
+    border-color:rgb(3, 30, 104);
+    border-width: 10px;
+    margin: 3em;
 
+
+}
 
 
