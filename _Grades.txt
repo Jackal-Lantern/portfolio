@@ -1,0 +1,43 @@
+Portfolio final grade: 77
+
+Comments:  This was a decent effort.  I see that you tried to do more with the HTML than just the bare minimum - in some places it worked, and in others it caused problems.   Try to review the notes and the ToDo items I left for you in the earlier grading to understand where you can improve.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 74
+(50% of overall grade)
+
+Points deducted for these items:
+    -7 extra /div, /nav, and /body closing tags on multiple pages.
+    -4 empty <div> tags on multiple pages.
+    -3 inapprpriate use of <nav> tags on multiple pages.
+    -4 extra <body> tag and content on About page.
+    -3 Navigation missing on Contact page.
+    -1 empty img tag on Index page.
+    -1 invalid <p2> tag on Index page.
+    -1 orphaned </style> tag on Index page.
+    -2 orphaned font-family styles on Index page.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 85
+(25% of overall grade)
+
+Points deducted for these items:
+    -10 individual CSS selector properties could have been combined into few shared CSS selectors.
+    -5 paragraph colors are not consistent and don't always
+    meet the 3.0 minimum contrast.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 75
+(25% of overall grade)
+
+Points deducted for these items:
+    -25 Media selector CSS value is broken, preventing responsive design.
