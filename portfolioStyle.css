@@ -6,7 +6,7 @@ body{background: lightsalmon}
 }
 
 #holland {
-    color: green;
+    color: purple;
     font-size: 5 rem;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
@@ -40,21 +40,23 @@ p {font-family: 'Play', sans-serif;}
 
 
 
-#contact:hover{
+
+
+#about:hover{
+    font-size: 150%;
+}
+#resume:hover{
     font-size: 150%;
 }
 #projects:hover{
     font-size: 150%;
 }
-#about:hover{
+#contact:hover{
     font-size: 150%;
 }
 
-#resume:hover{
-    font-size: 150%;
-}
   
-@media all and(crientation:landscape){property: 500px;}
+
 
 #tango{
     font-size:30px;
