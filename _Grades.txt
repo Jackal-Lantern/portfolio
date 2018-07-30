@@ -1,4 +1,4 @@
-Portfolio final grade: 77
+Portfolio final grade: 85
 
 Comments:  This was a decent effort.  I see that you tried to do more with the HTML than just the bare minimum - in some places it worked, and in others it caused problems.   Try to review the notes and the ToDo items I left for you in the earlier grading to understand where you can improve.
 
@@ -36,8 +36,11 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 75
+Grade: 105
 (25% of overall grade)
 
 Points deducted for these items:
-    -25 Media selector CSS value is broken, preventing responsive design.
+    -5 Media selector CSS value is broken, preventing responsive design.
+
+Bonus Points awarded for these items:
+    +10 because of completing the media queries
