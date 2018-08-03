@@ -1,7 +1,128 @@
-body{
-    background:img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhRiTuS1GKQn-xO3CTPwpX9MWVa0LUrwjXTvomA_-ZAVdPwq_lg"
-}
 
 #taco{
+    font-size:30px;
+    color:rgb(238, 225, 225);
+    text-align:center;
+    width: 30%;
+    padding: 10px;
+    border-style: line;
+    border-color:rgb(3, 30, 104);
+    border-width: 10px;
+    margin: 3em;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+#info{
+    float:center;
+    font-size:30px;
+}
+
+#tact{
+    float:center;
+    font-size:30px;
+}
+
+#intro{
+    float:center;
+    font-size:30px;
+}
+
+#solution{
+    float:center;
+    font-size:30px;
+   
+}
+
+#related{
+    float:center;
+    font-size: 30px;
   
+}
+#image{
+    float: left;
+    padding: 4px;
+}
+
+#simp{
+    float:center;
+}
+
+#form{ width : 50%;
+    height:auto;
+   
+}
+#scan{
+    width : 50%;
+         height:auto;
+         
+    
+}
+
+#sites{
+    color:black;
+    font-size:20px;
+    text-align:center;
+   
+}
+
+#sites:hover{
+    color:yellow;
+}
+#sites2{
+    float: right;
+    color:black;
+    font-size:20px;
+    text-align:center;
+    
+}
+
+#sites2:hover{
+    color:yellow;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color:whitesmoke;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#psa{
+    border-style: line;
+    border-color:black;
+    border-width: 40px;
+    margin: 3em;
+    background-color:blue;
 }
